@@ -3,3 +3,5 @@ let printToLog = () => {
       console.log(element);
    });
 };
+
+let testContext = (arg) => { console.log(arg); };
